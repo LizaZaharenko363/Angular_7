@@ -1,0 +1,15 @@
+img{
+    width:100%;
+}
+.comp{
+    width:100%;
+    margin: auto;
+}
+.achieve{
+    background-color: rgb(212, 178, 103);
+    border: black 1px solid;
+    border-radius: 8px;
+    width: 30%;
+    text-align: center;
+    margin: auto;
+}
